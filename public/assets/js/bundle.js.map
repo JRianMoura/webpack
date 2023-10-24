@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":";;;;;AAAA;AACA;AACA;AACAA,OAAO,CAACC,GAAG,CAAC,WAAW,CAAC,C","sources":["webpack://modelo-webpack/./src/index.js"],"sourcesContent":["// q\r\n//q\r\n//\r\nconsole.log(\"BOA TARDE\");"],"names":["console","log"],"sourceRoot":""}
